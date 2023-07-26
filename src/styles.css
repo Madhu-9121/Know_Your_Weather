@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  background-color: lightblue;
+  border: 20px solid lightblue;
+}
+.card {
+  /* text-align: center; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  /* display: flex; */
+}
+.content {
+  text-align: left;
+  display: flex;
+  align-items: flex-start;
+}
